@@ -1,4 +1,4 @@
-rule havoc_c2_payload_detection
+rule Havoc_Framework_Payload_Detection
 {
    meta:
       description = "Havoc C2 Framework Detection"
